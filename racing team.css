@@ -1,0 +1,35 @@
+#nav{
+
+
+    font-family: Arial;
+background-color:#282828;
+width:860px;
+height: 520px;
+margin: auto;
+color: white;
+
+
+}
+.top{
+    padding-top: 20px;
+    padding-left: 15px;
+    padding-right: 15px;
+    font-size: 30px;
+}
+.left{
+    padding-left: 30px;
+    font-size: 20px;
+    width: 250px;
+    height: 460px;
+    float: left;
+}
+.right{
+    padding-right: 40px;
+    font-size: 15px;
+    width: 340px;
+    height: 460px;
+    float: right;
+}
+p{
+    font-size: 15px;
+}
